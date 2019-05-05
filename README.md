@@ -1,4 +1,4 @@
-Create your own "SuperHostsFile" to block ADS and SOCIAL-MEDIA/MALICIOUS/PORN/GAMBLING WEBSITES by downloading the following "hosts" files from these great sources:
+Create your own "SuperHostsFile" to block ADS / SOCIAL-MEDIA / MALICIOUS / PORN / GAMBLING / Websites by downloading the following "hosts" files from these great sources:
 
 https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist
 
