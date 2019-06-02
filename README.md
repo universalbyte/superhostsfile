@@ -6,7 +6,7 @@ https://github.com/StevenBlack/hosts
 
 https://hosts-file.net/?s=Download
 
-The files of the following link must be edited manually and requires elevated computing knowledge. This means that you have to put "0.0.0.0" (without the quotes) in front of every line !
+The files of the following link must be edited manually and requires elevated computing knowledge. This means that you have to put "0.0.0.0" (Unix/Linux/Mac OS's) or "127.0.0.1" (Windows OS's) without the quotes in front of every line !
 
 https://blocklist.site/app/
 
