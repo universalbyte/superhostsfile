@@ -10,6 +10,6 @@ The files of the following link must be edited manually and requires elevated co
 
 https://blocklist.site/app/
 
-TIP: Download this editor for your "Operating System" below. It opens text files with data 100MB+ in a few seconds, depending on your computer's CPU/RAM. Default OS editors crash or even fail.
+TIP: Download this editor for your "Operating System" below. It opens text files with data 100MB+ in a few seconds, depending on your computer's CPU/RAM. Default Windows OS editors crash or even fail.
 
 https://sublimetext.com
