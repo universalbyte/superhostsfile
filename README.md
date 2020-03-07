@@ -12,10 +12,7 @@ The files of the following link must be edited manually and requires elevated co
 
 For Example:
 
-0.0.0.0 example.com
-0.0.0.0 www.example.com
-127.0.0.1 example.com
-127.0.0.1 www.example.com
+0.0.0.0 example.com , 0.0.0.0 www.example.com , 127.0.0.1 example.com , 127.0.0.1 www.example.com
 
 https://blocklist.site/app/
 
