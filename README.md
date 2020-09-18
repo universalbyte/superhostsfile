@@ -14,6 +14,6 @@ For Example:
 
 https://blocklist.site/app/
 
-TIP: Download this editor for your "Operating System" below. It opens text files with data 100MB+ in a few seconds, depending on your computer's CPU/RAM. Default Windoze OS editors crash or even fail.
+TIP: Download this editor for your "Operating System" below. It opens text files with data 100MB+ in a few seconds, depending on your computer's CPU/RAM. Default Operating System's editors crash or even fail.
 
 https://sublimetext.com
