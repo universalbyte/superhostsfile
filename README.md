@@ -6,13 +6,7 @@ https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist
 
 https://github.com/StevenBlack/hosts
 
-The files of the following link must be edited manually and requires elevated computing knowledge. This means that you have to put "0.0.0.0<SPACE>" (Unix/Linux/Mac OS's) or "127.0.0.1<SPACE>" (Windows OS's) without the quotes in front of every line !
-
-For Example:
-
-0.0.0.0 example.com , 0.0.0.0 www.example.com , 127.0.0.1 example.com , 127.0.0.1 www.example.com
-
-https://blocklist.site/app/
+https://github.com/blocklistproject/
 
 TIP: Download this editor for your "Operating System" below. It opens text files with data 100MB+ in a few seconds, depending on your computer's CPU/RAM. Default Operating System's editors crash or even fail.
 
