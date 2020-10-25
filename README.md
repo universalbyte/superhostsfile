@@ -6,7 +6,7 @@ https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist
 
 https://github.com/StevenBlack/hosts
 
-https://github.com/blocklistproject/
+https://github.com/blocklistproject
 
 TIP: Download this editor for your "Operating System" below. It opens text files with data 100MB+ in a few seconds, depending on your computer's CPU/RAM. Default Operating System's editors crash or even fail.
 
