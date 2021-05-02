@@ -1,4 +1,7 @@
-Create your own "SuperHosts" file to block ADS, SOCIAL-MEDIA / MALICIOUS / PORN / GAMBLING Websites by downloading the following "hosts" files and merging them together from these great sources:
+Create your own "SuperHosts" file to block
+ADS
+SOCIAL-MEDIA-, MALICIOUS-, PORN-, GAMBLING-, NEWS Websites
+by downloading the following "hosts" files and merging them together from these great sources:
 
 https://github.com/EnergizedProtection/
 
