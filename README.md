@@ -10,7 +10,7 @@ https://github.com/sjhgvr/oisd/
 
 https://github.com/cenk/bad-hosts/
 
-https://github.com/blocklistproject/ https://blocklist.site
+https://github.com/blocklistproject/Lists/ https://blocklist.site
 
 https://github.com/EnergizedProtection/ INACTIVE ? ? ?
 
