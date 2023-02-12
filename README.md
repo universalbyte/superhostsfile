@@ -12,7 +12,7 @@ https://github.com/cenk/bad-hosts/
 
 https://github.com/blocklistproject/Lists/ https://blocklist.site
 
-https://github.com/EnergizedProtection/ INACTIVE ? ? ?
+https://github.com/EnergizedProtection/block/ INACTIVE ? ? ?
 
 TIP: Download this editor for your "Operating System" below. It opens text files with data 100MB+ in a few seconds, depending on your computer's CPU/RAM. Default Operating System's editors crash or even fail.
 
