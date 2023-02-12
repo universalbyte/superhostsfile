@@ -6,6 +6,8 @@ https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/
 
 https://github.com/StevenBlack/hosts/
 
+https://github.com/sjhgvr/oisd/
+
 https://github.com/cenk/bad-hosts/
 
 https://github.com/blocklistproject/ https://blocklist.site
