@@ -2,9 +2,9 @@ Create your own "SuperHosts" file to block
 ADS, SOCIAL-MEDIA-, MALICIOUS-, PORN-, GAMBLING-, NEWS Websites
 by downloading the following "hosts" files and merging them together from these great sources:
 
-https://github.com/Ultimate-Hosts-Blacklist/
+https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/
 
-https://github.com/StevenBlack/
+https://github.com/StevenBlack/hosts/
 
 https://github.com/cenk/bad-hosts/
 
