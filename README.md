@@ -6,11 +6,13 @@ https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/
 
 https://github.com/StevenBlack/hosts/
 
-https://github.com/sjhgvr/oisd/
+https://github.com/hagezi/dns-blocklists/
 
 https://github.com/cenk/bad-hosts/
 
-https://github.com/blocklistproject/Lists/ https://blocklist.site
+https://github.com/sjhgvr/oisd/
+
+https://github.com/blocklistproject/Lists/ OR https://blocklist.site
 
 https://github.com/EnergizedProtection/block/ INACTIVE ? ? ?
 
