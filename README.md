@@ -3,7 +3,7 @@
 ## 127.0.0.1 localhost
 ## 127.0.1.1 AnonymousComputer
 ## 0.0.0.0 all-bad-hosts.net
-## 0.0.0.0 www.all-bad-hosts.net
+## 0.0.0.0 w</span>ww.all-bad-hosts.net
 
 Create your own "SuperHosts" file to block
 ADS, SOCIAL-MEDIA-, MALWARE-, FAKENEWS-, GAMBLING-, PORN- Websites
