@@ -1,4 +1,9 @@
-![hosts-file](https://github.com/universalbyte/superhostsfile/assets/46248788/1586b7fd-1800-42c6-82f2-b35ef01234cf)
+# hosts file
+
+## 127.0.0.1 localhost
+## 127.0.1.1 AnonymousComputer
+## 0.0.0.0 all-bad-hosts.net
+## 0.0.0.0 www.all-bad-hosts.net
 
 Create your own "SuperHosts" file to block
 ADS, SOCIAL-MEDIA-, MALWARE-, FAKENEWS-, GAMBLING-, PORN- Websites
