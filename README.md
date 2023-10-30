@@ -1,3 +1,5 @@
+![hosts-file](https://github.com/universalbyte/superhostsfile/assets/46248788/a88354dc-b9c3-4358-9294-ca01b6829c4b)
+
 Create your own "SuperHosts" file to block
 ADS, SOCIAL-MEDIA-, MALWARE-, FAKENEWS-, GAMBLING-, PORN- Websites
 by downloading the following "hosts" files and merging them together from these great sources:
