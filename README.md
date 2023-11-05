@@ -21,7 +21,9 @@ https://github.com/cenk/bad-hosts/
 
 https://github.com/sjhgvr/oisd/
 
-https://github.com/blocklistproject/Lists/ OR https://blocklist.site
+https://github.com/badmojr/1Hosts/
+
+https://github.com/blocklistproject/Lists/
 
 https://github.com/EnergizedProtection/block/
 
