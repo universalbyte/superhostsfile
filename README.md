@@ -2,8 +2,9 @@
 ## 127.0.0.1 localhost
 ## 127.0.1.1 AnonymousComputer
 # #START: hosts-file-provider#∞
-## 0.0.0.0 all-bad-hosts.net
-## 0.0.0.0 w</span>ww.all-bad-hosts.net
+## 0.0.0.0 bad-host.net
+## 0.0.0.0 w</span>ww.bad-host.net
+## 0.0.0.0 all.bad-hosts.net
 # #END: hosts-file-provider#∞
 
 Create your own "SuperHosts" file to block
