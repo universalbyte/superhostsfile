@@ -25,7 +25,7 @@ https://github.com/sjhgvr/
 
 https://github.com/blocklistproject/
 
-https://github.com/EnergizedProtection/block/
+https://github.com/EnergizedProtection/
 
 TIP: Download this editor for your "Operating System" below. It opens text files with data 100MB+ in a few seconds, depending on your computer's CPU/RAM. Default Operating System's editors crash or even fail.
 
