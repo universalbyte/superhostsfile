@@ -1,4 +1,4 @@
-# #Super-Hosts-File
+# #SuperHostsFile
 ## 127.0.0.1 localhost
 ## 127.0.1.1 AnonymousComputer
 # #START: hosts-file-provider
