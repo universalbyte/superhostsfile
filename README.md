@@ -27,6 +27,6 @@ https://github.com/blocklistproject/
 
 https://github.com/EnergizedProtection/
 
-TIP: Download this editor for your "Operating System" below. It opens text files with data 100MB+ in a few seconds, depending on your computer's CPU/RAM. Default Operating System's editors crash or even fail.
+TIP: Download this Text-Editor for your "Operating System" below. It opens text files with data 100MB+ in a few seconds, depending on your computer's CPU/RAM. Default Operating System's Text-Editors crash or even fail.
 
 https://www.scintilla.org
